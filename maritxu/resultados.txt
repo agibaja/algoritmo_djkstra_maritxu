@@ -1,0 +1,54 @@
+Consulta 1: A -> T
+Coste: 23
+Camino: A -> C -> I -> O -> R -> S -> T
+Tiempo: 0.011 ms
+
+Consulta 2: A -> K
+Coste: 16
+Camino: A -> C -> I -> J -> K
+Tiempo: 0.005 ms
+
+Consulta 3: F -> P
+Coste: 14
+Camino: F -> G -> J -> P
+Tiempo: 0.007 ms
+
+Consulta 4: D -> S
+Coste: 20
+Camino: D -> J -> I -> O -> R -> S
+Tiempo: 0.006 ms
+
+Consulta 5: H -> H
+Coste: 0
+Camino: H
+Tiempo: 0.000 ms
+
+Consulta 6: B -> O
+Coste: 16
+Camino: B -> C -> I -> O
+Tiempo: 0.004 ms
+
+Consulta 7: C -> R
+Coste: 16
+Camino: C -> I -> O -> R
+Tiempo: 0.004 ms
+
+Consulta 8: G -> T
+Coste: 15
+Camino: G -> H -> K -> N -> O -> R -> S -> T
+Tiempo: 0.006 ms
+
+Consulta 9: E -> N
+Coste: 11
+Camino: E -> F -> G -> H -> K -> N
+Tiempo: 0.004 ms
+
+Consulta 10: J -> A
+Coste: 13
+Camino: J -> I -> C -> A
+Tiempo: 0.004 ms
+
+---
+Tiempo de carga de datos: 0.762 ms
+Tiempo de procesamiento de consultas: 0.052 ms
+Tiempo total: 1.061 ms

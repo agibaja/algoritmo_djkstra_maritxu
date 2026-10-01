@@ -1,0 +1,29 @@
+Consulta 1: Donostia -> Ordizia
+Coste: 33
+Camino: Donostia -> Hernani -> Tolosa -> Beasain -> Ordizia
+Tiempo: 0.072 ms
+
+Consulta 2: Donostia -> Tolosa
+Coste: 20
+Camino: Donostia -> Hernani -> Tolosa
+Tiempo: 0.036 ms
+
+Consulta 3: Andoain -> Ordizia
+Coste: 23
+Camino: Andoain -> Tolosa -> Beasain -> Ordizia
+Tiempo: 0.028 ms
+
+Consulta 4: Donostia -> Donostia
+Coste: 0
+Camino: Donostia
+Tiempo: 0.002 ms
+
+Consulta 5: Hernani -> Beasain
+Coste: 19
+Camino: Hernani -> Tolosa -> Beasain
+Tiempo: 0.021 ms
+
+---
+Tiempo de carga de datos: 13.634 ms
+Tiempo de procesamiento de consultas: 0.159 ms
+Tiempo total: 26.718 ms
